@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivamionu.github.io/UnR/sitemap_index.txt
+Sitemap: https://ivamionu.github.io/YUT/sitemap_index.txt
+Sitemap: https://ivamionu.github.io/kjS/sitemap_index.txt
+Sitemap: https://ivamionu.github.io/uYq/sitemap_index.txt
